@@ -5,12 +5,10 @@
 Desafio concluido do modulo 2 na trilha de ReactJS do ignite.
 
 ### :dollar: Dashboard:
-![dashboard](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react
-/blob/master/src/assets/images/cart_dashboard.png)
+![dashboard](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react/blob/master/src/assets/images/cart_dashboard.png)
 
 ### :dollar: Nova transação:
-![novatransação](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react
-/blob/master/src/assets/images/cart_dashboard.png)
+![novatransação](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react/blob/master/src/assets/images/cart_dashboard.png)
 
 
 ### :computer: Rodando Projeto:
