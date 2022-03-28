@@ -1,4 +1,4 @@
-#:handbag: Carrinho_de_compras_desafio03_ignite_react
+# :handbag: Carrinho_de_compras_desafio03_ignite_react
 
 ## Descrição do Projeto
 
