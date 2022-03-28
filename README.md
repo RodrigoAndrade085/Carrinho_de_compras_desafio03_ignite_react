@@ -1,4 +1,4 @@
-# Carrinho_de_compras_desafio03_ignite_react
+# :shoe: Carrinho_de_compras_desafio03_ignite_react
 
 ### :computer: Rodando Projeto:
 
