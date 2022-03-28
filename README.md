@@ -9,7 +9,7 @@ Dashboard: Pussui uma listagem de Cards possuindo um titulo, foto, preço, e um 
 ![dashboard](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react/blob/master/src/assets/images/cart_dashboard.png)
 
 ### :shoe: Carrinho:
-Carrinho: Tem os produtos que você escolheu na tela de dashboard, você pode aumentar a quantidade ou diminuir caso ela seja diferente de 1, podendo tambem exclui-la, nessa tela podemos ver o subtotal e total, se auto ajustando conforme a quantidade e alterada 
+Carrinho: Tem os produtos que você escolheu na tela de dashboard, você pode aumentar a quantidade ou diminuir caso ela seja diferente de 1, podendo tambem exclui-la, nessa tela podemos ver o subtotal e total, se auto ajustando conforme a quantidade e alterada.
 ![cart](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react/blob/master/src/assets/images/cart_vazio.png)
 ![cart_com_itens](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react/blob/master/src/assets/images/cart_pedido.png)
 
