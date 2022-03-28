@@ -10,10 +10,8 @@ Dashboard: Pussui uma listagem de Cards possuindo um titulo, foto, preço, e um 
 Dashboard: Pussui uma listagem de Cards possuindo um titulo, foto, preço, e um botao para adicionar ao carrinho, com um numeral ao lado indicando quantos daquele produto ja esta no carrinho, clicando no botão podemos adicionar o produto ao nosso carrinho caso não possua mais produto em estoque e apresentado uma mensagem com toast de erro.
 ![dashboard](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react/blob/master/src/assets/images/cart_dashboard.png)
 
-### :shoe: Carrinho Vazio:
-![cart_vazio](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react/blob/master/src/assets/images/cart_vazio.png)
-
-### :shoe: Carrinho com itens:
+### :shoe: Carrinho:
+![cart](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react/blob/master/src/assets/images/cart_vazio.png)
 ![cart_com_itens](https://github.com/RodrigoAndrade085/Carrinho_de_compras_desafio03_ignite_react/blob/master/src/assets/images/cart_pedido.png)
 
 ### :computer: Rodando Projeto:
