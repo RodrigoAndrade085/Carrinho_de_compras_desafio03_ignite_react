@@ -1,4 +1,15 @@
-# :handbag: Carrinho_de_compras_desafio03_ignite_react
+#:handbag: Carrinho_de_compras_desafio03_ignite_react
+
+## Descrição do Projeto
+
+Desafio concluido do modulo 2 na trilha de ReactJS do ignite.
+
+### :dollar: Dashboard:
+![dashboard](https://github.com/RodrigoAndrade085/dt-Money/blob/master/src/assets/dtmoney-dashboard.png)
+
+### :dollar: Nova transação:
+![novatransação](https://github.com/RodrigoAndrade085/dt-Money/blob/master/src/assets/dtmoney-novatransacao.png)
+
 
 ### :computer: Rodando Projeto:
 
